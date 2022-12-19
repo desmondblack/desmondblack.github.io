@@ -52,12 +52,12 @@ body {
 	background-size: cover;
 	border-top: none;
 	padding-top: 410px;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 150px;
+	margin-bottom: 150px;
 	border-radius: 3%;
 }
 .startBlock {
-	margin-top: -250px;
+	margin-top: -150px;
 	color: #fff;
 	background: #fd913b;
 	height: 70px;
