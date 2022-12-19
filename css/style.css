@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-	width: 100%;
+	width: 1000px;
 	/*background-attachment: fixed;*/
 	position: relative;
 	background: #e3e3e3 url(../img/header.png) center no-repeat;
@@ -129,19 +129,20 @@ a {
 	transition: 1s;
 }
 .sliderBox {
-	width: 1100px;
+	width: 1000px;
 	height: 450px;
 	overflow: hidden;
 	margin-top: 50px;	
 }
 .slider {
 	position: relative;
-	width: 1100px;
+	width: 1000px;
 	height: 450px;
 }
 .slider img {
 	float: left;
 	z-index: 0;
+        width: 1000px;
 }
 .blockContainer {
 	margin-bottom:10px;
