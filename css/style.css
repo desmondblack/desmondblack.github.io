@@ -96,7 +96,7 @@ a {
 }
 
 .navigation {	
-	position: absolute;
+	position: sticky;
 	z-index: 1;
 	left: 0;
 	bottom: 0;	
